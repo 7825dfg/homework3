@@ -16,7 +16,7 @@ import java.util.*;
 	 else if(sal <80000000) this.tax = sal*0.28;
 	 else this.tax = sal*0.37;
 	 
-	 System.out.println("소득세는 "+tax+" 원 입니다.");
+	 System.out.println("소득세는 "+(int)tax+" 원 입니다.");
 	 
    }
    
