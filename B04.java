@@ -1,7 +1,7 @@
 import java.util.*;
 
  class B04 {
-     int sal;
+     double sal;
      double tax;
    
    void input(){
